@@ -1,0 +1,35 @@
+@font-face {font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_20wgjonbumu0udi.eot?t=1497496512692'); /* IE9*/
+    src: url('//at.alicdn.com/t/font_20wgjonbumu0udi.eot?t=1497496512692#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('//at.alicdn.com/t/font_20wgjonbumu0udi.woff?t=1497496512692') format('woff'), /* chrome, firefox */
+    url('//at.alicdn.com/t/font_20wgjonbumu0udi.ttf?t=1497496512692') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('//at.alicdn.com/t/font_20wgjonbumu0udi.svg?t=1497496512692#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-edit:before { content: "\e61d"; }
+
+.icon-shoppingCart:before { content: "\e600"; }
+
+.icon-chart:before { content: "\e74c"; }
+
+.icon-log:before { content: "\e69a"; }
+
+.icon-logout:before { content: "\e66b"; }
+
+.icon-product:before { content: "\e61b"; }
+
+.icon-filter:before {  content: "\eabf";  }
+
+.icon-jinpai:before { content: "\e605"; }
+
+.icon-wangxiao:before { content: "\e604"; }
+
+.icon-dashboard:before { content: "\e66c"; }
