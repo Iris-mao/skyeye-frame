@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "echarts": "^4.1.0",
     "element-ui": "^2.4.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "velocity-animate": "^1.5.2",
     "vue": "^2.6.10",
     "vue-echarts": "^4.0.3",
